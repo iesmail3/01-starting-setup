@@ -8,10 +8,10 @@ function Expenses(props) {
               title={exp.title}
               amount={exp.amount}
               date={exp.date}
-            />
+            /> 
           ))}
         </div>
-      );
+      ); 
 }
 
 export default Expenses;

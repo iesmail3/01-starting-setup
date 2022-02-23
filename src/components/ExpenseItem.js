@@ -9,7 +9,7 @@ function ExpenseItem(props){
                 </div>
                 <div className='expense-item__description'><h2 className='expense-item__description'>{props.title}</h2>
                 <div className='expense_item__price'>${props.amount}</div>
-                </div>
+                </div> 
     </div>);
 }
 

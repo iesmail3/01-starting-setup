@@ -28,8 +28,8 @@ function App() {
       <Expenses
         expenses={expenses}
       ></Expenses> 
-    </div>
-  );
+    </div> 
+  ); 
 }
 
 export default App;
